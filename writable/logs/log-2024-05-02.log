@@ -184,3 +184,56 @@ in SYSTEMPATH\Database\BaseConnection.php on line 647.
  8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publication))
  9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
 10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 23:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-02 23:29:35 --> [DEPRECATED] Function strftime() is deprecated in APPPATH\Views\Publication\all.php on line 22.
+ 1 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Proyecto1\\app\\Views\\Publication\\all.php')
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Publication/all', [], true)
+ 4 APPPATH\Controllers\Publication.php(15): view('Publication/all', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Publication->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publication))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 23:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-02 23:29:48 --> [DEPRECATED] Function strftime() is deprecated in APPPATH\Views\Publication\all.php on line 22.
+ 1 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Proyecto1\\app\\Views\\Publication\\all.php')
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Publication/all', [], true)
+ 4 APPPATH\Controllers\Publication.php(15): view('Publication/all', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Publication->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publication))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 23:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-02 23:29:56 --> [DEPRECATED] Function strftime() is deprecated in APPPATH\Views\Publication\all.php on line 22.
+ 1 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Proyecto1\\app\\Views\\Publication\\all.php')
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Publication/all', [], true)
+ 4 APPPATH\Controllers\Publication.php(15): view('Publication/all', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Publication->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publication))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-05-02 23:29:56 --> [DEPRECATED] Function strftime() is deprecated in APPPATH\Views\Publication\all.php on line 22.
+ 1 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Proyecto1\\app\\Views\\Publication\\all.php')
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Publication/all', [], true)
+ 4 APPPATH\Controllers\Publication.php(15): view('Publication/all', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Publication->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publication))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 23:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-02 23:30:03 --> [DEPRECATED] Function strftime() is deprecated in APPPATH\Views\Publication\all.php on line 22.
+ 1 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Proyecto1\\app\\Views\\Publication\\all.php')
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Publication/all', [], true)
+ 4 APPPATH\Controllers\Publication.php(15): view('Publication/all', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Publication->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Publication))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 23:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
